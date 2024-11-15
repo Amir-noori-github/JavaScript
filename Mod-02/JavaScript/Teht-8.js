@@ -1,4 +1,5 @@
 // Module 2.8 JS codes
+
 // Function to concatenate an array of strings
 function concat(arr) {
     let result = "";
