@@ -1,4 +1,5 @@
 // Module 1.4 JS codes
+
 'use strict';
 // Prompt for the student's name
 const name = prompt("Enter your name:");

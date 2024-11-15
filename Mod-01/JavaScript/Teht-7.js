@@ -1,4 +1,5 @@
 // Module 1.7
+
 'use strict';
 // Ask the user for the number of dice rolls
 const numRolls = parseInt(prompt("How many dice rolls would you like to make?"), 10);

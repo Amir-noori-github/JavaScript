@@ -1,4 +1,5 @@
 // Module 1.6 JS codes
+
 'use strict';
 // Ask the user if they want to calculate the square root
 const confirmCalculation = confirm("Should I calculate the square root?");

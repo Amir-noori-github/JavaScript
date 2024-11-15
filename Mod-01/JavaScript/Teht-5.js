@@ -1,4 +1,5 @@
 // Module 1.5 JS codes
+
 'use strict';
 // Prompt the user to enter a year
 const year = parseInt(prompt("Enter a year:"), 10);
