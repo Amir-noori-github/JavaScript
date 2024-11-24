@@ -1,6 +1,6 @@
 // Module 3, task 4 JS codes
-'use strict';
 
+'use strict';
 // Array of students with id and name
 const students = [
   { id: "2345768", name: "John" },

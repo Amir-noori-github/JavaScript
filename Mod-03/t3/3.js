@@ -1,4 +1,5 @@
 // Module 3, task 3 JS codes
+
 'use strict';
 
 // Array of names

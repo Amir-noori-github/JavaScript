@@ -1,4 +1,5 @@
 // Module 3, task 2 JS codes
+
 'use strict';
 // Select the element with id="target"
 const targetElement = document.getElementById("target");
